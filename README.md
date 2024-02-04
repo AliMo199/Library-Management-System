@@ -3,6 +3,8 @@
 ## Description
 The Library Management System is a console-based application designed to manage a library's collection of books. It allows users to add new books, remove existing books, display the catalog of books, search for specific books, borrow books, return books, and view statistics about the library's collection.
 
+![UML design](https://i.imgur.com/85NcaeV.png)
+
 ## Features
 1. **Add a Book:** Enables users to add new books to the library catalog.
 2. **Remove a Book:** Allows users to remove books from the library catalog.
